@@ -2,6 +2,7 @@
   "name": "final-project-layout",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://huan5678.github.io/nodeJS-Final-Design-layout",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
